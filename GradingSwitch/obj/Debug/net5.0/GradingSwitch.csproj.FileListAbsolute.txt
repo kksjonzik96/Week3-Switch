@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.exe
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.deps.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\bin\Debug\net5.0\ref\GradingSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\bin\Debug\net5.0\GradingSwitch.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\ref\GradingSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingSwitch\obj\Debug\net5.0\GradingSwitch.genruntimeconfig.cache

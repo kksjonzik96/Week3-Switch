@@ -1,0 +1,15 @@
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.exe
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.deps.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\bin\Debug\net5.0\ref\PersonalityTest.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\bin\Debug\net5.0\PersonalityTest.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\ref\PersonalityTest.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PersonalityTest\obj\Debug\net5.0\PersonalityTest.genruntimeconfig.cache

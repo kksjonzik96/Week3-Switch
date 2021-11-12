@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\bin\Debug\net5.0\PesonalityTestSwitch.exe
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\bin\Debug\net5.0\PesonalityTestSwitch.deps.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\bin\Debug\net5.0\PesonalityTestSwitch.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\bin\Debug\net5.0\PesonalityTestSwitch.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\bin\Debug\net5.0\PesonalityTestSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\bin\Debug\net5.0\ref\PesonalityTestSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\bin\Debug\net5.0\PesonalityTestSwitch.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\ref\PesonalityTestSwitch.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\PesonalityTestSwitch\obj\Debug\net5.0\PesonalityTestSwitch.genruntimeconfig.cache

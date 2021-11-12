@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.exe
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.deps.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\bin\Debug\net5.0\ref\GradingIF.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\bin\Debug\net5.0\GradingIF.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\ref\GradingIF.dll
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.pdb
+D:\Programmeerimise algkursus (RKE132)\PersonalityTest\GradingIF\obj\Debug\net5.0\GradingIF.genruntimeconfig.cache
